@@ -9,6 +9,7 @@
 * **pandas**
 * **numpy**
 * **seaborn**
+* **matplotlib**
 * **phik**
 * sklearn.dummy.**DummyClassifier**
 * sklearn.metrics.**roc_auc_score**
