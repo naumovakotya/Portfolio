@@ -9,8 +9,8 @@ StackOverflow похож на социальную сеть — пользова
 
 ## Навыки и инструменты
 * **SQL**
-* **python**
-* **pandas**
+* **Python**
+* **Pandas**
 * **Matplotlib**
 * **Seaborn**
 
