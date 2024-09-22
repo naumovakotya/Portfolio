@@ -1,4 +1,8 @@
 # Yandex_practicum_DS_projects
+[Диплом о профессиональной переподготовке по программе "Специалист по Data Science"](https://github.com/naumovakotya/Yandex_practicum_DS_projects/blob/main/%D0%9D%D0%B0%D1%83%D0%BC%D0%BE%D0%B2%D0%B0%20%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0_20232%D0%A6%D0%9F%D0%94%D0%A100035.pdf)
+
+[Sertificate of Completion of the Data Scientist Professional Training Course](https://github.com/naumovakotya/Yandex_practicum_DS_projects/blob/main/Naumova%20Ekaterina_20232%D0%A6%D0%9F%D0%94%D0%A100035.pdf)
+
 Здесь представлена часть реализованных проектов в рамках обучения профессии "Специалист по Data Science" от Яндек Практикума.
 
 |#     |            Наименнование проекта               | Описание                                          | Стек                                         | Статус проекта  |
@@ -9,6 +13,4 @@
 | 4 | [Исследование базы данных сервиса Stackoverflow](https://github.com/naumovakotya/Portfolio/tree/main/SQL) | В этом исследовании работа идёт с базой данных StackOverflow — сервиса вопросов и ответов о программировании. StackOverflow похож на социальную сеть — пользователи сервиса задают вопросы, отвечают на посты, оставляют комментарии и ставят оценки другим ответам. Я исследовала предоставленные данные, сформировала требуемые выгрузки данных с помощью SQL и посчитала различные продуктовые метрики.| Python, SQL |Завершён |
 
 
-[Диплом о профессиональной переподготовке по программе "Специалист по Data Science"](https://github.com/naumovakotya/Yandex_practicum_DS_projects/blob/main/%D0%9D%D0%B0%D1%83%D0%BC%D0%BE%D0%B2%D0%B0%20%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%20%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0_20232%D0%A6%D0%9F%D0%94%D0%A100035.pdf)
 
-[Sertificate of Completion of the Data Scientist Professional Training Course](https://github.com/naumovakotya/Yandex_practicum_DS_projects/blob/main/Naumova%20Ekaterina_20232%D0%A6%D0%9F%D0%94%D0%A100035.pdf)
